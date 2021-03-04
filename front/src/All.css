@@ -1,0 +1,34 @@
+.comment{
+  margin-left: 5px;
+}
+.comment ol{
+  display: inline;
+  margin: 0 1px;
+}
+.small_comment ol{
+  margin-left: 2px;
+  display: inline;
+  margin: 0 1px;
+}
+.comment_box{
+  white-space: pre;
+  border: dotted 1px;
+  border-radius: 4px;
+  width: 40%;
+  margin-top: 2px;
+  margin-left: 85px;
+}
+
+.main_form ol{
+  margin-left: 10px;
+  display: inline;
+  margin: 0 5px;
+}
+
+.top_form{
+  text-align: right;
+  margin-right: 50px;
+}
+.change_pass{
+  margin-left: 10px;
+}
